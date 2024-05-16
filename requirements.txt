@@ -1,4 +1,8 @@
+jupyterlab
 numpy
 pandas
+scikit-learn
+catboost
+mlxtend
 shap
 tqdm
